@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @beytullah-dc
+- 👀 I’m interested in backend developer
+- 🌱 I’m currently learning Node.JS
